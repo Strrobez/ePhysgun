@@ -16,4 +16,4 @@
 		~ Players will not take fall damage when 'accidently' dropped from height.
 
 ## Credits
-[https://aeroservers.hxane.com/](AeroServers.co) - It was originally made for AeroServers.co, but as the owner I've decided release it publically.
+[AeroServers.co](https://aeroservers.hxane.com/) - It was originally made for AeroServers.co, but as the owner I've decided release it publically.
