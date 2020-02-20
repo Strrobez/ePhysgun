@@ -14,3 +14,6 @@
 		~ Allow all players to have rainbow physguns.
 	• Negate fall damage when dropped from physgun.
 		~ Players will not take fall damage when 'accidently' dropped from height.
+
+## Credits
+[https://aeroservers.hxane.com/]AeroServers.co - It was originally made for AeroServers.co, but as the owner I've decided release it publically.
